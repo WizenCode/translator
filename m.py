@@ -11,7 +11,7 @@ import json
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-api_token = "380896813:AAHZJ8BpF_WM0ZpVncjHvKow0GLcChSj4bM"
+api_token = "524174041:AAHf703WRTMwKb_CN8qpCKx78QZVdhEvvQc"
 
 sudo = ""
 
